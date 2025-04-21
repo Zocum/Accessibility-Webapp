@@ -1,0 +1,114 @@
+.dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .url-input {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .url-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+  }
+  
+  .url-input button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .url-input button:hover {
+    background-color: #45a049;
+  }
+  
+  .url-input button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .loading, .error {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .error {
+    color: red;
+    background-color: #ffeeee;
+    border-radius: 4px;
+  }
+  
+  .results {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .score-section, .wcag-section, .issues-section {
+    margin-bottom: 30px;
+  }
+  
+  .issues-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .issue {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .issue.a {
+    border-left: 5px solid #f44336;
+  }
+  
+  .issue.aa {
+    border-left: 5px solid #ff9800;
+  }
+  
+  .issue-level {
+    display: inline-block;
+    padding: 3px 8px;
+    margin-right: 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .issue.a .issue-level {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .issue.aa .issue-level {
+    background-color: #ff9800;
+    color: white;
+  }
+  
+  .issue-name {
+    font-weight: bold;
+  }
+  
+  .issue-description {
+    margin-top: 10px;
+    color: #666;
+  }

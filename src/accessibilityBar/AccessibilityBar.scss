@@ -1,0 +1,31 @@
+.accessibility-bar {
+    margin-bottom: 20px;
+}
+
+.bar-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.bar-container {
+    height: 30px;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.bar-fill {
+    height: 100%;
+    border-radius: 15px;
+    transition: width 0.5s ease-in-out;
+}
+
+.bar-percentage {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #333;
+    font-weight: bold;
+}
