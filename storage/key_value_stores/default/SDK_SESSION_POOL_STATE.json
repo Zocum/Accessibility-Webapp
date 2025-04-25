@@ -1,0 +1,280 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_PNX9df56bm",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-25T17:36:47.350Z",
+      "createdAt": "2025-04-25T16:46:47.350Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Ld88Onb8As",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "cX_G",
+            "value": "cx%3A3shcr9h8u663q34wzxc6vkfvwq%3A1nv85fq6s8ixz",
+            "expires": "2026-05-25T16:46:52.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.007Z",
+            "lastAccessed": "2025-04-25T16:46:52.007Z"
+          },
+          {
+            "key": "signedLspa",
+            "value": "undefined",
+            "expires": "2026-04-25T16:46:50.872Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.009Z",
+            "lastAccessed": "2025-04-25T16:46:52.009Z"
+          },
+          {
+            "key": "ccpaApplies",
+            "value": "false",
+            "expires": "2026-04-25T16:46:50.871Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "dnsDisplayed",
+            "value": "undefined",
+            "expires": "2026-04-25T16:46:50.871Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "cX_P",
+            "value": "m9x0xrfixi5ccfu8",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "pa_privacy",
+            "value": "%22optin%22",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "www.bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "_pctx",
+            "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIGYA2ABi644AmQQFYALDwDsYgIwiR3AJy0QAfXxkAtgAdUAMwBuixQEcAPpsUAPHlZhWTIAL5A",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "_pcus",
+            "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVHJldHVybjplN2Y1N2MxNTRhZWZmYWYxYjM0YWY2ZDZiYjcxMjg0ZjQ0NDUxMzllOm5vX3Njb3JlIl19fSwiX3QiOiJtcGxmdjk5cXxtOXgweHJ4cSJ9",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "xbc",
+            "value": "%7Bkpex%7DglqAP9_LzGJR0NZC5h10BQ",
+            "expires": "2026-05-30T16:46:50.543Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "_cb",
+            "value": "DYw970Cal-utBGttFS",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "ckns_privacy",
+            "value": "july2019",
+            "expires": "2026-04-25T16:46:49.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "__pvi",
+            "value": "eyJpZCI6InYtbTl4MHhyZm05dWtseGxidiIsImRvbWFpbiI6Ii5iYmMuY29tIiwidGltZSI6MTc0NTU5OTYxMDU0Mn0%3D",
+            "expires": "2025-04-26T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "_sp_su",
+            "value": "false",
+            "expires": "2026-04-25T16:46:50.872Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "__tbc",
+            "value": "%7Bkpex%7DSIFL8ZGuNVM2QI1KSnGbYCPC7qqsSArJjllNsTWgofkDZTCrEaa8DnixAlsSJgqs",
+            "expires": "2026-05-30T16:46:50.542Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "_chartbeat2",
+            "value": ".1745599610689.1745599610689.1.B_JstkB3oa7zHRgcRCfYQuNDIn4L4.1",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "__pat",
+            "value": "3600000",
+            "expires": "2025-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "_cb_svref",
+            "value": "external",
+            "expires": "2025-04-25T17:16:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "optimizelyEndUserId",
+            "value": "oeu1745599609688r0.8705387088933264",
+            "expires": "2025-10-22T16:46:49.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.011Z",
+            "lastAccessed": "2025-04-25T16:46:52.011Z"
+          },
+          {
+            "key": "ckns_policy_exp",
+            "value": "1745599609624",
+            "expires": "2026-04-25T16:46:49.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.012Z",
+            "lastAccessed": "2025-04-25T16:46:52.012Z"
+          },
+          {
+            "key": "_pcid",
+            "value": "%7B%22browserId%22%3A%22m9x0xrfixi5ccfu8%22%2C%22_t%22%3A%22mplfv99q%7Cm9x0xrxq%22%7D",
+            "expires": "2026-05-25T16:46:50.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.012Z",
+            "lastAccessed": "2025-04-25T16:46:52.012Z"
+          },
+          {
+            "key": "ckns_policy",
+            "value": "000",
+            "expires": "2026-04-25T16:46:49.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.012Z",
+            "lastAccessed": "2025-04-25T16:46:52.012Z"
+          },
+          {
+            "key": "ckns_explicit",
+            "value": "0",
+            "expires": "2026-04-25T16:46:49.000Z",
+            "domain": "bbc.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-25T16:46:52.012Z",
+            "lastAccessed": "2025-04-25T16:46:52.012Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-25T17:36:47.352Z",
+      "createdAt": "2025-04-25T16:46:47.352Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

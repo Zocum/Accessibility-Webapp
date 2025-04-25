@@ -1,0 +1,9 @@
+{
+	"id": "wP3MGs2501drUp7",
+	"json": "{\"id\":\"wP3MGs2501drUp7\",\"url\":\"https://www.bbc.com/\",\"loadedUrl\":\"https://www.bbc.com/\",\"uniqueKey\":\"https://www.bbc.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-04-25T16:47:16.856Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.bbc.com",
+	"url": "https://www.bbc.com/"
+}
